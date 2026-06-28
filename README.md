@@ -41,11 +41,11 @@ An elegant, highly customizable floating digital desktop clock widget for GNOME 
 
 ### Light Theme
 
-![Digital Desktop Clock](img1.png)
+![Digital Desktop Clock](img2.png)
 
 ### Dark Theme
 
-![Digital Desktop Clock](img2.png)
+![Digital Desktop Clock](img1.png)
 
 
 ## 📸 Screenshot
