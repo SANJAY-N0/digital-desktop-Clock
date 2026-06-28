@@ -33,15 +33,29 @@ An elegant, highly customizable floating digital desktop clock widget for GNOME 
 
 > Add a screenshot of your extension here.
 
-```markdown
-![Digital Desktop Clock](img3.png)
-```
-```markdown
-![Digital Desktop Clock](img2.png)
-```
-```markdown
+## 📸 Screenshot
+
+### Desktop Digital Clock Widget
+
 ![Digital Desktop Clock](img1.png)
-```
+
+### Light Theme
+
+![Digital Desktop Clock](img2.png)
+
+### Dark Theme
+
+![Digital Desktop Clock](img3.png)
+
+
+## 📸 Screenshot
+
+<p align="center">
+  <img src="img1.png" width="30%">
+  <img src="img2.png" width="30%">
+  <img src="img3.png" width="30%">
+</p>
+
 ---
 
 ## 🖥️ Compatibility
