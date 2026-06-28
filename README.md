@@ -37,15 +37,15 @@ An elegant, highly customizable floating digital desktop clock widget for GNOME 
 
 ### Desktop Digital Clock Widget
 
-![Digital Desktop Clock](img1.png)
+![Digital Desktop Clock](img3.png)
 
 ### Light Theme
 
-![Digital Desktop Clock](img2.png)
+![Digital Desktop Clock](img1.png)
 
 ### Dark Theme
 
-![Digital Desktop Clock](img3.png)
+![Digital Desktop Clock](img2.png)
 
 
 ## 📸 Screenshot
